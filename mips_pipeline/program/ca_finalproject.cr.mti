@@ -1,0 +1,106 @@
+{D:/OSU/spring/Computer Architecture/add32.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/add32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} {D:/OSU/spring/Computer Architecture/reg01.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/reg01.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg01
+
+Top level modules:
+	reg01
+
+} {} {}} {D:/OSU/spring/Computer Architecture/sign_extend.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/sign_extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {D:/OSU/spring/Computer Architecture/memory.v} {1 {vlog -work work -stats=none {D:\OSU\spring\Computer Architecture\memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {D:/OSU/spring/Computer Architecture/reg05.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/reg05.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg05
+
+Top level modules:
+	reg05
+
+} {} {}} {D:/OSU/spring/Computer Architecture/alu_ctl.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/alu_ctl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} {D:/OSU/spring/Computer Architecture/Shifter.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/Shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} {D:/OSU/spring/Computer Architecture/tb_SingleCycle.v} {1 {vlog -work work -stats=none {D:\OSU\spring\Computer Architecture\tb_SingleCycle.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} {D:/OSU/spring/Computer Architecture/bitALU.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/bitALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bitALU
+
+Top level modules:
+	bitALU
+
+} {} {}} {D:/OSU/spring/Computer Architecture/ALU.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/OSU/spring/Computer Architecture/control_single.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/control_single.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {D:/OSU/spring/Computer Architecture/reg32.v} {1 {vlog -work work -stats=none {D:\OSU\spring\Computer Architecture\reg32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} {D:/OSU/spring/Computer Architecture/total_CPU.v} {1 {vlog -work work -stats=none {D:\OSU\spring\Computer Architecture\total_CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module total_CPU
+
+Top level modules:
+	total_CPU
+
+} {} {}} {D:/OSU/spring/Computer Architecture/MUX2.v} {1 {vlog -work work -stats=none {D:\OSU\spring\Computer Architecture\MUX2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {D:/OSU/spring/Computer Architecture/reg_file.v} {1 {vlog -work work -stats=none {D:/OSU/spring/Computer Architecture/reg_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}}

@@ -1,0 +1,330 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vadd32
+Z0 !s110 1463861504
+!i10b 1
+!s100 PO_ZGRM]^WD;:^ROP]PES0
+Ibd6>8RRa:<gkIoW<jn@`U0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/OSU/spring/Computer Architecture
+w1463850033
+8D:/OSU/spring/Computer Architecture/add32.v
+FD:/OSU/spring/Computer Architecture/add32.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1463861504.000000
+!s107 D:/OSU/spring/Computer Architecture/add32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/add32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vALU
+R0
+!i10b 1
+!s100 MK@oJl7Ye;BTT92FBG2P]2
+I8:53m`JeBOj]_jiQ_fnWC2
+R1
+R2
+w1463850067
+8D:/OSU/spring/Computer Architecture/ALU.v
+FD:/OSU/spring/Computer Architecture/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/ALU.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+valu_ctl
+R0
+!i10b 1
+!s100 42OQEUPh`GY;223ezoP`=0
+I_]S:M_I?5z4:b<TL<XSz^1
+R1
+R2
+w1463850139
+8D:/OSU/spring/Computer Architecture/alu_ctl.v
+FD:/OSU/spring/Computer Architecture/alu_ctl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/alu_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vbitALU
+R0
+!i10b 1
+!s100 U6P_l1UY^c8C4<1hhJ:E82
+IdKj1jRAZf^4o>G9HGAL<N0
+R1
+R2
+w1463850137
+8D:/OSU/spring/Computer Architecture/bitALU.v
+FD:/OSU/spring/Computer Architecture/bitALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/bitALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/bitALU.v|
+!s101 -O0
+!i113 1
+R5
+nbit@a@l@u
+vcontrol
+R0
+!i10b 1
+!s100 @DzcTZTA`k`jNCbh;N<mI3
+IfQSK8O8hWQ5jz2RgjNn[a1
+R1
+R2
+w1463850171
+8D:/OSU/spring/Computer Architecture/control_single.v
+FD:/OSU/spring/Computer Architecture/control_single.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/control_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/control_single.v|
+!s101 -O0
+!i113 1
+R5
+vmemory
+!s110 1463864672
+!i10b 1
+!s100 g7<5nnAh;DBGj`mliTo[l2
+IR:J^II@_Vi8NWHf9D`cJn3
+R1
+R2
+w1463864668
+8D:\OSU\spring\Computer Architecture\memory.v
+FD:\OSU\spring\Computer Architecture\memory.v
+L0 18
+R3
+r1
+!s85 0
+31
+!s108 1463864671.000000
+!s107 D:\OSU\spring\Computer Architecture\memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\OSU\spring\Computer Architecture\memory.v|
+!s101 -O0
+!i113 1
+R5
+vmux2
+!s110 1464070471
+!i10b 1
+!s100 XfR?149Y>boTTBQ7nc9bU0
+IP>4E1PD7zogYhW`jUQ>KV3
+R1
+R2
+w1464070470
+8D:\OSU\spring\Computer Architecture\MUX2.v
+FD:\OSU\spring\Computer Architecture\MUX2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1464070471.000000
+!s107 D:\OSU\spring\Computer Architecture\MUX2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\OSU\spring\Computer Architecture\MUX2.v|
+!s101 -O0
+!i113 1
+R5
+vreg01
+R0
+!i10b 1
+!s100 aHNekXa6DM28NSNmCaR7K1
+Idh5RY;UP0<1Qz9M^5JCa`0
+R1
+R2
+w1463851144
+8D:/OSU/spring/Computer Architecture/reg01.v
+FD:/OSU/spring/Computer Architecture/reg01.v
+Z6 L0 13
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/reg01.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/reg01.v|
+!s101 -O0
+!i113 1
+R5
+vreg05
+R0
+!i10b 1
+!s100 i_E:zl3bO=z8Y3D<Rm0UE2
+IKV;4<EaFWG`MD^OooA<8R0
+R1
+R2
+w1463851176
+8D:/OSU/spring/Computer Architecture/reg05.v
+FD:/OSU/spring/Computer Architecture/reg05.v
+R6
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/reg05.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/reg05.v|
+!s101 -O0
+!i113 1
+R5
+vreg32
+!s110 1463866327
+!i10b 1
+!s100 F`Pk5V95OKeD_W2nHC5Zz1
+IU^<XDPULQcBEb3^ogE]G11
+R1
+R2
+w1463866320
+8D:\OSU\spring\Computer Architecture\reg32.v
+FD:\OSU\spring\Computer Architecture\reg32.v
+Z7 L0 16
+R3
+r1
+!s85 0
+31
+!s108 1463866327.000000
+!s107 D:\OSU\spring\Computer Architecture\reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\OSU\spring\Computer Architecture\reg32.v|
+!s101 -O0
+!i113 1
+R5
+vreg_file
+R0
+!i10b 1
+!s100 IK2[C4dJ=]TeN7i2VzI?G3
+IldI_;<cmYaPAz9JzPJ]NL3
+R1
+R2
+w1463851117
+8D:/OSU/spring/Computer Architecture/reg_file.v
+FD:/OSU/spring/Computer Architecture/reg_file.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/reg_file.v|
+!s101 -O0
+!i113 1
+R5
+vShifter
+R0
+!i10b 1
+!s100 1Hk^BHl>bKNoCn:ACQ@QO1
+I;@Ml4Oi6AU<m@TVO9=okd3
+R1
+R2
+w1463851237
+8D:/OSU/spring/Computer Architecture/Shifter.v
+FD:/OSU/spring/Computer Architecture/Shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/Shifter.v|
+!s101 -O0
+!i113 1
+R5
+n@shifter
+vsign_extend
+R0
+!i10b 1
+!s100 :g1kX`<2[olBQ?NVP=Ii03
+IdEAI`Peb91GN<ajHc7M@E3
+R1
+R2
+w1463851267
+8D:/OSU/spring/Computer Architecture/sign_extend.v
+FD:/OSU/spring/Computer Architecture/sign_extend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OSU/spring/Computer Architecture/sign_extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OSU/spring/Computer Architecture/sign_extend.v|
+!s101 -O0
+!i113 1
+R5
+vtb_SingleCycle
+R0
+!i10b 1
+!s100 WVJjB6hc[A4]6<;KbjR4f2
+IN]L[nCO1;7g[Z4TCY1Vd40
+R1
+R2
+w1463861123
+8D:\OSU\spring\Computer Architecture\tb_SingleCycle.v
+FD:\OSU\spring\Computer Architecture\tb_SingleCycle.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\OSU\spring\Computer Architecture\tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\OSU\spring\Computer Architecture\tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@single@cycle
+vtotal_CPU
+!s110 1464221013
+!i10b 1
+!s100 S;Xe0X_clPM[K7W;L<^ha2
+IIze7cQ?jJ>>QiQBde06;Z3
+R1
+R2
+w1464221009
+8D:\OSU\spring\Computer Architecture\total_CPU.v
+FD:\OSU\spring\Computer Architecture\total_CPU.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1464221012.000000
+!s107 D:\OSU\spring\Computer Architecture\total_CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\OSU\spring\Computer Architecture\total_CPU.v|
+!s101 -O0
+!i113 1
+R5
+ntotal_@c@p@u
