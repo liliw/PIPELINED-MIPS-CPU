@@ -7,5 +7,8 @@ The five stages are **Instruction Fetch(IF), Instruction Decode(ID), Execution(E
 ## Built With
 - ModelSim - The simulator used
 
-##Authors
+## Authors
 - Li-Wei Li
+
+## Acknowledgement
+- Computer Organization and Design: the Hardware/Software Interface. 5th Edition. 
